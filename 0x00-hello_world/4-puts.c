@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - main block
- * Return: 0
+ * main - Entry point
+ * Prints Programming is like building a multilingual puzzle and a new line
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
